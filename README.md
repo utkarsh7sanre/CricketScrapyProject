@@ -35,7 +35,7 @@ ________________________________________
 ________________________________________
 📸 Screenshots
 
-![Batting Dashboard](screenshots/Screenshot 2025-08-16 143330.png)
+![Batting Dashboard](screenshots/batting.png)
 
 ### 📊 Player-wise Performance
 ![Player Stats](screenshots/dashboard2.png)
