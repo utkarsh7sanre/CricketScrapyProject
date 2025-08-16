@@ -1,6 +1,6 @@
-Cricket World Cup 2011 Batting Analysis (Web Scraping + Visualization)
+##Cricket World Cup 2011 Batting Analysis (Web Scraping + Visualization)
 
-📌 Project Overview
+#📌 Project Overview
 
 This project scrapes ICC World Cup 2011 batting data from Cricbuzz using Python and analyzes it to uncover insights such as:
 
