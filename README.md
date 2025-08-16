@@ -1,8 +1,8 @@
 
 ________________________________________
-#🏏 Cricket World Cup 2011 – Batting Analysis (Web Scraping + Visualization)
+# ** 🏏 Cricket World Cup 2011 – Batting Analysis (Web Scraping + Visualization) **
 
-📌 Overview
+### 📌 Overview
 This project scrapes ICC World Cup 2011 batting data from Cricbuzz using Python 🐍, cleans the dataset, and performs analysis to uncover interesting insights such as:
 •	🥇 Top run scorers
 •	⚡ Best strike rates
@@ -10,7 +10,7 @@ This project scrapes ICC World Cup 2011 batting data from Cricbuzz using Python 
 •	👤 Player-wise performance summaries
 It also includes data visualizations built with Python (Matplotlib/Seaborn) 📊 and an interactive Power BI dashboard 📈.
 ________________________________________
-📂 Project Structure
+### 📂 Project Structure
 ├── data/
 │   ├── WorldCup_11_batting_data.csv     
 ├── scripts/
@@ -22,7 +22,7 @@ ________________________________________
 └── README.md                             # Documentation
 ________________________________________
 
-📊 Features
+### 📊 Features
 ✅ Web Scraping – Extract player stats directly from Cricbuzz
 ✅ Data Cleaning – Handle missing values, convert datatypes
 ✅ Exploratory Data Analysis (EDA)
@@ -33,7 +33,7 @@ ________________________________________
 •	🎯 Strike Rate vs Runs scatter plots
 ✅ Interactive Dashboard – Power BI for deep dive analysis
 ________________________________________
-📸 Screenshots
+### 📸 Screenshots
 
 ![Batting Dashboard](screenshots/batting.png)
 
@@ -52,7 +52,7 @@ ________________________________________
  
 
 
-Observations 
+### Observations 
 1.  Top Run Scorers
 •	The first chart highlighted the leading run scorers.
 •	Brendon McCullum, Virender Sehwag, and Ross Taylor stood out with consistent contributions.
@@ -70,14 +70,14 @@ Observations
 
 
 ________________________________________
-🚀 Future Improvements
+### 🚀 Future Improvements
 •	🔄 Automate scraping for live World Cup matches
 •	🎯 Add bowling & fielding statistics
 •	🌐 Build a Streamlit web app for cricket stats
 •	☁️ Deploy dashboards online for easy access
 ________________________________________
 
-🙌 Contributors
+### 🙌 Contributors
 👨‍💻 Utkarsh Sanre – Web Scraping, Data Analysis, Visualization, Documentation
 Email – Utkarshsanre449@gmail.com
 
