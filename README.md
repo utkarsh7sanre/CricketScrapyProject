@@ -35,6 +35,14 @@ ________________________________________
 ________________________________________
 📸 Screenshots
 
+![Batting Dashboard](screenshots/dashboard1.png)
+
+### 📊 Player-wise Performance
+![Player Stats](screenshots/dashboard2.png)
+
+### 📈 Strike Rate vs Runs
+![Strike Rate vs Runs](screenshots/dashboard3.png)
+
 
  
  
